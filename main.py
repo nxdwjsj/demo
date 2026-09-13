@@ -12,5 +12,6 @@ def farewell(name):
 
 
 if __name__ == "__main__":
-    print(greet("Git 学习者"))
-    print(farewell("Git 学习者"))
+    from colors import color_text, GREEN, YELLOW
+    print(color_text(greet("Git 学习者"), GREEN))
+    print(color_text(farewell("Git 学习者"), YELLOW))
