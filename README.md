@@ -5,6 +5,8 @@
 ## 学习记录
 
 - [x] git init — 初始化仓库
-- [ ] git add / commit — 提交更改
+- [x] git add / commit — 提交更改
+- [x] git reset 回滚
+- [x] push 推送到 GitHub
 - [ ] 分支操作
-- [ ] 推送到 GitHub
+- [ ] pull 更新
