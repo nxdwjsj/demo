@@ -3,7 +3,7 @@
 
 def greet(name):
     """返回问候语"""
-    return f"你好, {name}! 欢迎使用 Git!"
+    return f"你好, {name}! 欢迎使用 Git! 今天也要加油!"  # 这行是新改的，去左侧栏看看它被标记了
 
 
 def farewell(name):
